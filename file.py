@@ -74,4 +74,4 @@ console.print("[bold green]README.md has been generated successfully![/bold gree
 
 
 ## Link to the Walkthrough Video (ScreenCastify)
--[Walkthrough Video](https://app.screencastify.com/v3/watch/DxbYWfPjm3a9ApvKnY1h)
+#[Walkthrough Video](https://app.screencastify.com/v3/watch/DxbYWfPjm3a9ApvKnY1h)
