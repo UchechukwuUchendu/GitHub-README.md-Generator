@@ -71,3 +71,7 @@ with Progress() as progress:
         progress.update(task, advance=10)
 
 console.print("[bold green]README.md has been generated successfully![/bold green] ✅")
+
+
+## Link to the Walkthrough Video (ScreenCastify)
+-[Walkthrough Video](https://app.screencastify.com/v3/watch/DxbYWfPjm3a9ApvKnY1h)
